@@ -1,4 +1,4 @@
 # sachin-demo
 This is my first git Repository
 <br>
-Author - Sachin Paithane
+Author - Sachin (PST IT SOLUTION)
